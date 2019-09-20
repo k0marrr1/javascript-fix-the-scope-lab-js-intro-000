@@ -8,7 +8,7 @@ function yourAnimal() {
   return animal2
 }
 
-var n = 677
+
 function add2(n) {
   return n + two
 
